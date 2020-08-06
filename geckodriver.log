@@ -44,3 +44,47 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1596685564267	Marionette	INFO	Listening on port 65341
 1596685564566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596689592210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileU0hJVg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596689594683	Marionette	INFO	Listening on port 54495
+1596689594854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596689826817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile43Lq6e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596689829068	Marionette	INFO	Listening on port 55775
+1596689829440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596689834418	Marionette	INFO	Stopped listening on port 55775
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596689843123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofileck4X0H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596689845432	Marionette	INFO	Listening on port 55867
+1596689845748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596690066788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile3WwJH4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596690069038	Marionette	INFO	Listening on port 56164
+1596690069420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596690185652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile84yH1B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596690188248	Marionette	INFO	Listening on port 56610
+1596690188276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596690385383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SEBAST~1\\AppData\\Local\\Temp\\rust_mozprofile1kiZ99"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596690387841	Marionette	INFO	Listening on port 56974
+1596690388013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.glassdoor.com/app/static/js/gd-site-header.js?v=c7842e10b8, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/app/static/js/gd-site-header.js?v=c7842e10b8, line 1: ReferenceError: separatePreferencesTreatment is not defined
+JavaScript error: https://www.glassdoor.com/app/static/js/gd-site-header.js?v=c7842e10b8, line 1: ReferenceError: separatePreferencesTreatment is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596690444433	Marionette	INFO	Stopped listening on port 56974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
