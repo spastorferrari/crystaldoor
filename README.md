@@ -12,4 +12,6 @@ Script that allows you to input a Glassdoor link and extract every job applicati
 * Step 03: wait a few seconds while the Firefox driver does the scraping...
 * Terminal will return the scrape :).
 
-![screencap](images/image01.png)
+![screencap](images/image02.png)
+
+![screencap](images/image03.png)
